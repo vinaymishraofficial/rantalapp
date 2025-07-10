@@ -1,6 +1,6 @@
 ### Rantals
 
-Rantals Cabs For Everyone
+Rantals Cabs For Everyone (This App Is Under Development Don't Use For Now)
 
 ### Installation
 
